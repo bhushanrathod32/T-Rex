@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1db48ffb615302e4a8e617e6cc6a5a9b
+timeCreated: 1510756698
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Neue Haas Grotesk Text Pro
+  fontNames:
+  - Neue Haas Grotesk Text Pro
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
