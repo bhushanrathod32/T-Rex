@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 1f3c972dbe76c9d43a5124847da744c1
-timeCreated: 1510756698
+guid: 1429f40640d6d1740a54e8042509a527
+timeCreated: 1511021567
 licenseType: Free
 TrueTypeFontImporter:
   serializedVersion: 4
@@ -9,9 +9,9 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontName: Neue Haas Grotesk Display Pro
+  fontName: Intrepid ExtraBold
   fontNames:
-  - Neue Haas Grotesk Display Pro
+  - Intrepid ExtraBold
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0

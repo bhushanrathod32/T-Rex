@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: cb255c6662a6f3f4f91189a659a24b1a
-timeCreated: 1510756699
+guid: 0432494861354544e8509b28e7b35e7c
+timeCreated: 1511022415
 licenseType: Free
 TrueTypeFontImporter:
   serializedVersion: 4
@@ -9,12 +9,10 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontName: Neue Haas Grotesk Display Pro
+  fontName: Topsquare
   fontNames:
-  - Neue Haas Grotesk Display Pro
-  fallbackFontReferences:
-  - {fileID: 12800000, guid: 9f1d56f7ed0234d43a562d52d37ebf6d, type: 3}
-  - {fileID: 12800000, guid: 1f3c972dbe76c9d43a5124847da744c1, type: 3}
+  - Topsquare
+  fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1
